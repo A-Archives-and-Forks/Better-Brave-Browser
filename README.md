@@ -1,6 +1,5 @@
 # Better Brave Browser  Preview
-![image](https://github.com/user-attachments/assets/f61dedeb-80f5-4742-bef1-6a69087b3a2d)
-
+<img width="1920" height="1080" alt="Screenshot From 2026-01-06 03-53-01" src="https://github.com/user-attachments/assets/70f1bc38-e6da-4627-9853-f2e4f7e8912c" />
 
 # Synopsis
 
