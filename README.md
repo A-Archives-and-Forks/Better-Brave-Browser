@@ -43,7 +43,7 @@ Updated 1/06/26
 - #brave-sync-default-passwords
 - #brave-news-feed-update
 - #brave-news-peek
--#brave-ai-host-specific-distillation
+- #brave-ai-host-specific-distillation
 
 
 ## Recommended flags to ** Enable **
